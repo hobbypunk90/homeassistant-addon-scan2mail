@@ -1,0 +1,11 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+gem "mqtt", "~> 0.6.0"
+
+gem "activesupport", "~> 8.0"
+
+gem "config", "~> 5.5"
+
+gem "mail", "~> 2.8"
