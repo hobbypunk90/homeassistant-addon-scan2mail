@@ -73,7 +73,7 @@ module Mqtt
         unique_id: "#{topic(name).gsub('/', '__')}",
         device: {
           name: 'Scan 2 Mail',
-          manufacturer: 'Marcel Hoppe',
+          manufacturer: 'Hobbypunk',
           model: 'Scan2Mail Service',
           identifiers: [topic, 'BxTgDTtvT4WGNczDmhue'],
           sw_version: '0.1'
