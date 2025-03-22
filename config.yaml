@@ -1,12 +1,10 @@
-name: Sane
+name: Scan 2 Mail
 version: "1.0"
-slug: sane
-description: A Sane server for wireless scanning
+slug: scan2mail
+description: A Scan 2 Mail service which uses sane
 arch:
   - amd64
   - aarch64
-usb: true
-host_network: true
 init: false
 map:
   - addon_config:rw
